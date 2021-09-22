@@ -1,0 +1,29 @@
+{
+  "name": "aila",
+  "version": "1.0.0",
+  "description": "this is liquor delivery app",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/softwarica-github/t2---backend-api-Rojan904.git"
+  },
+  "author": "Rojan Shrestha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/softwarica-github/t2---backend-api-Rojan904/issues"
+  },
+  "homepage": "https://github.com/softwarica-github/t2---backend-api-Rojan904#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-validator": "^6.9.2",
+    "jest": "^26.6.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.11",
+    "multer": "^1.4.2"
+  }
+}
